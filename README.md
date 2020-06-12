@@ -1,4 +1,4 @@
 # Deep-Neural-Style-Transfer-VGG19
 Deep Neural Style Transfer with Keras
 
-![Screenshot](original.jpg) (my_result.png)
+![Screenshot](my_result.png)
