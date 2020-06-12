@@ -1,6 +1,7 @@
 # -*- coding: -*-
 #- [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
 
+#eg:.
 #python style_transfer.py img/original.jpg img/effect.jpg results/my_result
 
 from __future__ import print_function
