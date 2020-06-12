@@ -9,9 +9,9 @@ Deep Neural Style Transfer with Keras
 - Tensorflow / Keras
 - scipy
 
-https://www.anaconda.com/products/individual
-https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
-https://anaconda.org/conda-forge/keras
+- https://www.anaconda.com/products/individual
+- https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
+- https://anaconda.org/conda-forge/keras
 
 
 # Run Style Transfer
